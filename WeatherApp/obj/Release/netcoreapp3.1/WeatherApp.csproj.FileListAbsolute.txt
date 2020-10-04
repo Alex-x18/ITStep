@@ -1,0 +1,13 @@
+C:\Users\GoodLuck\source\repos\WeatherApp\bin\Release\netcoreapp3.1\WeatherApp.exe
+C:\Users\GoodLuck\source\repos\WeatherApp\bin\Release\netcoreapp3.1\WeatherApp.deps.json
+C:\Users\GoodLuck\source\repos\WeatherApp\bin\Release\netcoreapp3.1\WeatherApp.runtimeconfig.json
+C:\Users\GoodLuck\source\repos\WeatherApp\bin\Release\netcoreapp3.1\WeatherApp.runtimeconfig.dev.json
+C:\Users\GoodLuck\source\repos\WeatherApp\bin\Release\netcoreapp3.1\WeatherApp.dll
+C:\Users\GoodLuck\source\repos\WeatherApp\bin\Release\netcoreapp3.1\WeatherApp.pdb
+C:\Users\GoodLuck\source\repos\WeatherApp\obj\Release\netcoreapp3.1\WeatherApp.csprojAssemblyReference.cache
+C:\Users\GoodLuck\source\repos\WeatherApp\obj\Release\netcoreapp3.1\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\GoodLuck\source\repos\WeatherApp\obj\Release\netcoreapp3.1\WeatherApp.AssemblyInfo.cs
+C:\Users\GoodLuck\source\repos\WeatherApp\obj\Release\netcoreapp3.1\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\GoodLuck\source\repos\WeatherApp\obj\Release\netcoreapp3.1\WeatherApp.dll
+C:\Users\GoodLuck\source\repos\WeatherApp\obj\Release\netcoreapp3.1\WeatherApp.pdb
+C:\Users\GoodLuck\source\repos\WeatherApp\obj\Release\netcoreapp3.1\WeatherApp.genruntimeconfig.cache
