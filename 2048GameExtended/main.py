@@ -1,6 +1,6 @@
 import random
 from tkinter import *
-
+# https://github.com/alex-imp/ITStep/tree/main/2048GameExtended
 # Constants and TkInter GUI variables
 WINDOW_SIZE = 400  # Window width and height
 GRID_SIZE = 4  # Grid size 4x4
