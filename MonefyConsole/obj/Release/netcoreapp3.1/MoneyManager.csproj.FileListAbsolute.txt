@@ -1,0 +1,13 @@
+C:\Users\GoodLuck\source\repos\MoneyManager\bin\Release\netcoreapp3.1\MoneyManager.exe
+C:\Users\GoodLuck\source\repos\MoneyManager\bin\Release\netcoreapp3.1\MoneyManager.deps.json
+C:\Users\GoodLuck\source\repos\MoneyManager\bin\Release\netcoreapp3.1\MoneyManager.runtimeconfig.json
+C:\Users\GoodLuck\source\repos\MoneyManager\bin\Release\netcoreapp3.1\MoneyManager.runtimeconfig.dev.json
+C:\Users\GoodLuck\source\repos\MoneyManager\bin\Release\netcoreapp3.1\MoneyManager.dll
+C:\Users\GoodLuck\source\repos\MoneyManager\bin\Release\netcoreapp3.1\MoneyManager.pdb
+C:\Users\GoodLuck\source\repos\MoneyManager\obj\Release\netcoreapp3.1\MoneyManager.csprojAssemblyReference.cache
+C:\Users\GoodLuck\source\repos\MoneyManager\obj\Release\netcoreapp3.1\MoneyManager.AssemblyInfoInputs.cache
+C:\Users\GoodLuck\source\repos\MoneyManager\obj\Release\netcoreapp3.1\MoneyManager.AssemblyInfo.cs
+C:\Users\GoodLuck\source\repos\MoneyManager\obj\Release\netcoreapp3.1\MoneyManager.csproj.CoreCompileInputs.cache
+C:\Users\GoodLuck\source\repos\MoneyManager\obj\Release\netcoreapp3.1\MoneyManager.dll
+C:\Users\GoodLuck\source\repos\MoneyManager\obj\Release\netcoreapp3.1\MoneyManager.pdb
+C:\Users\GoodLuck\source\repos\MoneyManager\obj\Release\netcoreapp3.1\MoneyManager.genruntimeconfig.cache
